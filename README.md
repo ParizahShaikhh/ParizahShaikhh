@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ParizahShaikhh
-- 👀 I’m interested in learning computer languages
-- 🌱 I’m currently learning c++
-- 📫 I love coding 
+- 👀 I’m interested in learning computer programming languages
+- 🌱 I’m a Generative AI Engineer.
+- 📫 I love coding.
 
 <!---
 ParizahShaikhh/ParizahShaikhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
